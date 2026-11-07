@@ -242,6 +242,10 @@
     "pdfs/2610.35850.en.pdf": {
       "bytes": 1395541,
       "sha256": "16f5733751b662e17922fb5793a55ff351db5a8028e3a9ec560a80b4ef88dd3c"
+    },
+    "pdfs/2611.07613.pdf": {
+      "bytes": 1554155,
+      "sha256": "d1516c6c83e8fe2be221a622820a3931af978e7a4fd73ef24a0beecdd3b16abb"
     }
   }
 }

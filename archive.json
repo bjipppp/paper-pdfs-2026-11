@@ -246,6 +246,10 @@
     "pdfs/2611.07613.pdf": {
       "bytes": 1554155,
       "sha256": "d1516c6c83e8fe2be221a622820a3931af978e7a4fd73ef24a0beecdd3b16abb"
+    },
+    "pdfs/2611.07613.en.pdf": {
+      "bytes": 1347639,
+      "sha256": "7622d0201e1e18cb976a800ab60176a3e7fc52dbc14a31faf3d68c84a3366564"
     }
   }
 }

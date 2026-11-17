@@ -722,6 +722,42 @@
     "pdfs/2611.18359_slides.en.pdf": {
       "bytes": 1692319,
       "sha256": "96acf31f314ccf09e105f8df28dd7233ceb2830ec6af3593587180aa3808de7b"
+    },
+    "pdfs/2610.41354_slides.pdf": {
+      "bytes": 2096079,
+      "sha256": "de1105429ef21444c8cfab3c40eacc902f3099a4de7654c027f0f47adef3cf7e"
+    },
+    "pdfs/2610.41354_slides.en.pdf": {
+      "bytes": 1866019,
+      "sha256": "df39de6d9f5beebb85da32ea0d5885751473e3f0707158b53bbf557595de62fd"
+    },
+    "pdfs/2611.21607_slides.pdf": {
+      "bytes": 828903,
+      "sha256": "b627a50de1e75e34f582af3d353465a496df10309709964b3c27f85c48cd885a"
+    },
+    "pdfs/2611.21607_slides.en.pdf": {
+      "bytes": 635460,
+      "sha256": "6fd694d72e6ca8eb93b52622cf1d03034950705d83b80b840d429a5447b74a68"
+    },
+    "pdfs/2611.17110_slides.pdf": {
+      "bytes": 1340469,
+      "sha256": "951d470d19d502474af4a36a79aebc708d4d9cfa53aa81d7bb66a45cd024224c"
+    },
+    "pdfs/2611.13685_slides.pdf": {
+      "bytes": 1374006,
+      "sha256": "e6c733e69f2030e847fbb7ed5d8f168a5944cdeb87c8018a96458bce7e2c2153"
+    },
+    "pdfs/2611.13685_slides.en.pdf": {
+      "bytes": 1157366,
+      "sha256": "6753244d7330ef708dedc9c7d9a135dff17fd6ee49f8f9876137a26534d713d6"
+    },
+    "pdfs/2611.16312_slides.pdf": {
+      "bytes": 1578526,
+      "sha256": "d23accda817b771c0be9594d1df6adb3b2653a47d4284e8ea49e569a63c4db8d"
+    },
+    "pdfs/2611.16312_slides.en.pdf": {
+      "bytes": 1278923,
+      "sha256": "cc0630b462f15671827bc8b67af827d56af61acd31c00bb6fdf2cb04b96f3d64"
     }
   }
 }

@@ -1342,6 +1342,18 @@
     "pdfs/2611.32335_slides.pdf": {
       "bytes": 2415647,
       "sha256": "aff1bf86ade6d434cdb378d9f6447250ed5c6013ae3a41596e84b808ee0b8ecc"
+    },
+    "pdfs/2611.32335_slides.en.pdf": {
+      "bytes": 2215104,
+      "sha256": "15b30b64c0ee4be4cda6187a8a37f2563f9f58451793850904e24b5ee2fd1deb"
+    },
+    "pdfs/2611.34849_slides.pdf": {
+      "bytes": 1473219,
+      "sha256": "f418b7c3246c3f349cec361b25a8f96254b32c64bcb3755cc29bf0778bdfd47f"
+    },
+    "pdfs/2611.34849_slides.en.pdf": {
+      "bytes": 1226277,
+      "sha256": "26371d7217298b74e7b67713c44b287a86bef2c37d70c4988b27e28e5ea58a4f"
     }
   }
 }
